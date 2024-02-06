@@ -18,7 +18,10 @@ e=65537
 5. I decrypted the given ciphertext using the private key.
 6. I got something but it was in bytes.
 7. I converted the bytes to string and got the flag.
-8. The python script is as follows:
+
+   ![image](https://github.com/sr-tamim/bearcatCTF-writeup/assets/86656406/4af0facb-2fda-427a-aba9-58be35e90254)
+
+9. The python script is as follows:
 ```python
 from sympy import mod_inverse, factorint
 
