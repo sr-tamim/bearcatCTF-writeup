@@ -12,7 +12,10 @@ I was messing around with python encoding methods, using the base64 library, but
 3. Then I used `decode` function to decode the bytes to string.
 4. I ran an infinite loop to decode the given string multiple times.
 5. I used this script to decode the string and got the flag.
-6. The python script is as follows:
+
+   ![image](https://github.com/sr-tamim/bearcatCTF-writeup/assets/86656406/2f7a9026-a471-4060-b44a-7315794180e2)
+
+7. The python script is as follows:
 ```python
 import base64
 
