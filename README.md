@@ -1,4 +1,5 @@
-# Bearcat CTF 2024
+# [Bearcat CTF 2024](https://bearcatctf.io)
+![image](https://github.com/sr-tamim/bearcatCTF-writeup/assets/86656406/6838578d-6e73-48a1-874b-fff2fb8fac1e)
 
 ## Event Information
 Welcome to Cyber@UC's BearcatCTF 2024! This is Cyber@UC's inaugural year running our own dedicated CTF competition and we are very excited for what is planned. This event is welcoming students across Ohio, Northern Kentucky, and Southern Indiana. Competing at the tri-state level provides the opportunity to work with and against some of the brightest student minds in the area.
